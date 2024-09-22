@@ -1,4 +1,8 @@
 Clips Cutter App
+
+Available for FREE on gumroad:
+https://cjenright.gumroad.com/
+
 Welcome to the Clips Cutter App! This app allows you to effortlessly cut and edit YouTube clips by integrating advanced audio and video processing capabilities. Below are the steps to get started:
 
 Getting Started
